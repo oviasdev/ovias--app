@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="#FFFF00"
+    app:cardElevation="3dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+
+    >
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/username_guard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+
+
+
+        <TextView
+            android:id="@+id/vehicle_guard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textSize="20dp"/>
+        <TextView
+            android:id="@+id/date_guard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+
+
+
+        <TextView
+            android:id="@+id/time_guard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+
+
+
+        <Button
+            android:id="@+id/button_gc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start Trip" />
+
+        <Button
+            android:id="@+id/button_gd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="End Trip" />
+
+
+
+    </LinearLayout>
+
+
+
+</android.support.v7.widget.CardView>
+

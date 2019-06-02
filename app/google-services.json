@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "727777206429",
+    "firebase_url": "https://ovias-593f6.firebaseio.com",
+    "project_id": "ovias-593f6",
+    "storage_bucket": "ovias-593f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727777206429:android:bd6403312015a350",
+        "android_client_info": {
+          "package_name": "com.example.hp.ovias_mine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727777206429-791rrsslt29gl5l79hsaa03puejfkanh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.ovias_mine",
+            "certificate_hash": "8b0a71b10c6c2d769aa5751f77510d2f17e9ccbf"
+          }
+        },
+        {
+          "client_id": "727777206429-hohr7v7ie1l9lb8nna3plm1abk7mgmop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD5lo21c2Jad2mjQuSOOdaHy1cudWceXg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727777206429-hohr7v7ie1l9lb8nna3plm1abk7mgmop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
